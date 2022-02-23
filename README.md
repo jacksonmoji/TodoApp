@@ -12,7 +12,7 @@ Set up backend:
 
 1. Change directory to /app directory
 
-   > `cd backend/
+   > `cd backend/ `
 
 2. Install all backend project dependencies
 
